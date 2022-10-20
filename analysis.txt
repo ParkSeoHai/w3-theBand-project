@@ -1,0 +1,30 @@
+Những thành phần thường gặp trên giao diện Website:
+1. Header (đầu trang)
+2. Navigation (điều hướng)
+3. Breadcrumb
+4. Sidebar
+5. Slider
+6. Banner
+7. Content (Nd chính)
+8. Footer (chân trang)
+
+
+Thực hành
+Thực hành số 1:
+https://www.w3schools.com/w3css/tryw3css_templates_band.htm
+
+I. Phân tích -> ok
+	1. Header
+	2. Slider
+	3. Content
+		1. About
+		2. Tour
+		3. Contract
+		4. Image
+		5. Footer
+	4. Footer
+II. Dựng base (xây móng)
+III. Xây dựng từng phần theo phân tích
+IV. Hoàn thiện
+
+
